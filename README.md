@@ -1,4 +1,5 @@
 #A6a-Time Series Analysis 
+
 Choose the stock or share of your choice and Download the data form www.investing.com or yfinanceLinks to an external site. library (Mahindra & Mahindra)
 
 Clean the data, check for outliers and missing values, interpolate the data if there are any missing values, and plot a line graph of the data neatly named. Create a test and train data set
